@@ -1,4 +1,4 @@
-# Sales-Analysis-
+# Sales-Analysis
 
 # Laptop Sales Analysis 
 
